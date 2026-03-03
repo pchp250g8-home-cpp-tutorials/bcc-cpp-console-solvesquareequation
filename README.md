@@ -1,5 +1,3 @@
-SolveSquareEquation. C++ Tutorials. Embarcadero Rad Studio IDE. Simple Input/Output. Algorithms. Console application. 
-
 SolveSquareEquation. C++ Tutorials. Embarcadero Rad Studio IDE. Simple Input/Output. Algorithms. Windows Platform. Console Application. 
 
 A console application in the C++ programming language. 
